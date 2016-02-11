@@ -1,0 +1,29 @@
+
+.menu{
+	position: absolute;
+	text-decoration: none;
+}
+#capa1{
+	position: absolute;
+}
+#capa2{
+	position: 50%;
+	margin-top: 1px;
+}
+.sumate{
+	padding: 65px;
+	background-color: #FFD700;
+	margin: 50px 50px 50px 100px;
+	width: 50px;
+	height: 50px;
+
+}	
+.grupal{
+	display: inline-block;
+	padding: 550px;
+	border-top-width: 100px;
+	margin: 250px 50px 250px 50px;
+	width: 50px;
+	height: 70px;
+	list-style-position: 50px;
+}
